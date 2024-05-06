@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<img src="./github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-<!--
-**yanghao89/yanghao89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TomYang1024/TomYang1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
+
