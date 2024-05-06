@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="50%" height="50%" />
+<img src="./github-metrics.svg" alt="Metrics" width="100%">
 
 
 
